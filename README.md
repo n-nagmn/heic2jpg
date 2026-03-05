@@ -1,4 +1,4 @@
-# HEIC to JPG Converter Pro
+# HEIC to JPG Converter
 
 Pythonで作成された、高機能なHEIC画像一括変換ツールです。
 直感的なGUI操作で、複数のHEICファイルを高品質なJPEG形式へ簡単に変換できます。
